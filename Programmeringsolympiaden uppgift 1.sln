@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Programmeringsolympiaden uppgift 1", "Programmeringsolympiaden uppgift 1\Programmeringsolympiaden uppgift 1.pyproj", "{006AE13D-FEE4-48FA-9FB2-A033D56C9FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006AE13D-FEE4-48FA-9FB2-A033D56C9FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006AE13D-FEE4-48FA-9FB2-A033D56C9FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28707A9-DA76-4440-A71B-821E9CA3240D}
+	EndGlobalSection
+EndGlobal
